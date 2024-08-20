@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{346EA917-989E-3D09-FF61-FB102A8802CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ElixirPuzzleBoard.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ElixirPuzzleBoard.cs" Line="246" Column="1" />
+      <File FileName="Assets/Scripts/ElixirPuzzleRow.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleTileData.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleTileDataMatrixUtility.cs" Line="102" Column="1" />
+      <File FileName="Assets/Scripts/ElixirPuzzleController.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleMatch.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleMove.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleTile.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleTileTypeAsset.cs" />
+      <File FileName="Assets/Scripts/ElixirPuzzleTimer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.Elixir.of.Logic.Puzzle" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="810e3af4-e100-4ae1-8b08-491f7801dbad" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
